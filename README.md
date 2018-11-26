@@ -1,10 +1,10 @@
-# [MDesign MES V1 (ربات مدیر کانال)](https://telegram.me/mohsenesmaeili)
+# [MDesign MES V1 (ربات مدیر کانال)](https://telegram.me/pv_modirat_bot)
 
-My ID: telegram.me/mohsenesmaeili
+My ID: telegram.me/pv_modirat_bot
 
-Bot: telegram.me/chmhelp_bot
+Bot: telegram.me/Modiriat_channalbot
 
-www.mohsenesmaeili.net
+
 
 
 * * *
@@ -17,7 +17,7 @@ sudo apt-get update; sudo apt-get upgrade; sudo apt-get install lua5.1 luarocks 
 
 sudo luarocks install oauth; sudo luarocks install redis-lua; sudo luarocks install lua-cjson; sudo luarocks install ansicolors; sudo luarocks install serpent
 
-git clone https://github.com/mohsenesmaeili/chmhelp_bot && cd chmhelp_bot
+git clone https://github.com/aaahesam/Modiriat_channalbot && cd Modiriat_channalbot
 
 # Enter a Bot Token & your confirmation in config.lua.
 
