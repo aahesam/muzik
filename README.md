@@ -17,7 +17,7 @@ sudo apt-get update; sudo apt-get upgrade; sudo apt-get install lua5.1 luarocks 
 
 sudo luarocks install oauth; sudo luarocks install redis-lua; sudo luarocks install lua-cjson; sudo luarocks install ansicolors; sudo luarocks install serpent
 
-git clone https://github.com/aaahesam/Modiriat_channalbot && cd Modiriat_channalbot
+git clone https://github.com/aahesam/Modiriat_channalbot && cd Modiriat_channalbot
 
 # Enter a Bot Token & your confirmation in config.lua.
 
